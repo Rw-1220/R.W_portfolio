@@ -1,0 +1,20 @@
+@media (max-width: 1000px) {
+    .contents {
+      width: 50%;
+      text-align: center;
+    }
+  }
+  
+  /* スマホ向け */
+  
+  @media (max-width: 670px) {
+
+    contents {
+      width: 100%;
+      text-align: center;
+    }
+    
+    footer {
+      text-align: center;
+    }
+  }
