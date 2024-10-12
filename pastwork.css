@@ -44,17 +44,11 @@ header {
     margin-bottom: 40px;
 }
 
-
-  .contents1 {
-  display: flex;
-  justify-content: center;
-  margin: 0 40px;
-  }
-
-  .contents2 {
-  display: flex;
-  justify-content: center;
-  margin: 0 40px;
+.contents {
+ text-align: center;
+ display: flex;
+ justify-content: space-around;
+ padding-bottom: 150px;
   }
 
   footer {
